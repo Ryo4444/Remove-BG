@@ -53,10 +53,9 @@
 
 ## 📦 การติดตั้ง
 
-### 1. Clone โปรเจกต์
-``bash
-git clone https://github.com/username/removebg-discord-dashboard.git
-
-### 2. Module ติดตั้งโมดูล
-```bash
+### Module ติดตั้งโมดูล
 npm install express discord.js node-fetch sharp sqlite3 sqlite fs
+
+### 1. Clone โปรเจกต์
+```bash
+git clone https://github.com/username/removebg-discord-dashboard.git
