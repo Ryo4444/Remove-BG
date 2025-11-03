@@ -54,7 +54,7 @@
 ## 📦 การติดตั้ง
 
 ### 1. Clone โปรเจกต์
-```bash
+``bash
 git clone https://github.com/username/removebg-discord-dashboard.git
 
 ### 2. Module ติดตั้งโมดูล
