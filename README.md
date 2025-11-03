@@ -58,4 +58,4 @@ npm install express discord.js node-fetch sharp sqlite3 sqlite fs
 
 ### 1. Clone โปรเจกต์
 ```bash
-git clone https://github.com/username/removebg-discord-dashboard.git
+git clone https://github.com/Ryo4444/Remove-BG.git
